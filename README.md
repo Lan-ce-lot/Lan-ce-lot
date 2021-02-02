@@ -1,4 +1,5 @@
 ### Hi there, I'm Lance!! 👋
+![](https://ipcounter.ihcr.top/?mode=2)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Lan-ce-lot&theme=dark&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lan-ce-lot&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
