@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 ![](http://antzuhl.cn:4000/get/@Lan-ce-lot.readme)
 
 #### Platform&Tools
-##### 电脑系统
+##### Operating system
 [![](https://img.shields.io/badge/ubuntu-990000?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://www.archlinux.org/)  [![](https://img.shields.io/badge/Windows%20-33aadd?style=flat-square&logo=Windows&logoColor=ffffff)](https://www.archlinux.org/)
-##### 程序语言
+##### Programming language
 [![](https://img.shields.io/badge/-Go-blue.svg?style=flat-square&logo=go&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/Cpp-red.svg?style=flat&logo=c%2B%2B&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-Java-brown.svg?style=flat-square&logo=java&logoColor=66ff99)](https://reactjs.org/)
