@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Cpp-red.svg?style=flat&logo=c%2B%2B&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-Java-brown.svg?style=flat-square&logo=java&logoColor=66ff99)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-C-red.svg?style=flat-square&logo=c&logoColor=ffffff)](https://reactjs.org/)
-[![](https://img.shields.io/badge/-Rust-yellow.svg?style=flat-square&logo=javascript&logoColor=ffffff)](https://reactjs.org/)
+[![](https://img.shields.io/badge/-Javascript-yellow.svg?style=flat-square&logo=javascript&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-Python-green.svg?style=flat-square&logo=python&logoColor=ffffff)](https://reactjs.org/)
 
 [![languages](https://github.com/Lan-ce-lot/github-stats/blob/master/generated/languages.svg)](https://github.com/Lan-ce-lot/github-stats)
