@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Rust-yellow.svg?style=flat-square&logo=rust&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-Python-green.svg?style=flat-square&logo=python&logoColor=ffffff)](https://reactjs.org/)
 
-[![languages](https://github.com/Lan-ce-lot/github-stats/blob/master/generated/languages.svg)](https://github.com/Peterliang233/github-stats)
+[![languages](https://github.com/Lan-ce-lot/github-stats/blob/master/generated/languages.svg)](https://github.com/Lan-ce-lot/github-stats)
 [![overview](https://github.com/Lan-ce-lot/github-stats/blob/master/generated/overview.svg)](https://github.com/Lan-ce-lot/github-stats)
 <!--
 **Lan-ce-lot/Lan-ce-lot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
