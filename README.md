@@ -8,8 +8,8 @@
 - 🔭 I’m currently working on HarmonyCloud
 - 🌱 I’m currently learning golang & algorithm
 
-![](https://visitor-badge.glitch.me/badge?page_id=Lan-ce-lot.readme)
-![](http://antzuhl.cn:4000/get/@Lan-ce-lot.readme)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=Lan-ce-lot.readme)
+![](http://antzuhl.cn:4000/get/@Lan-ce-lot.readme) -->
 
 ![](https://github.com/Lan-ce-lot/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/Lan-ce-lot/github-stats/blob/master/generated/languages.svg)
