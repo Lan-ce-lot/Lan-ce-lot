@@ -11,6 +11,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=Lan-ce-lot.readme)
 ![](http://antzuhl.cn:4000/get/@Lan-ce-lot.readme)
 
+![](https://github.com/Lan-ce-lot/github-stats/blob/master/generated/overview.svg)
 #### Platform&Tools
 ##### Operating system
 [![](https://img.shields.io/badge/ubuntu-990000?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://www.archlinux.org/)  [![](https://img.shields.io/badge/Windows%20-33aadd?style=flat-square&logo=Windows&logoColor=ffffff)](https://www.archlinux.org/)
