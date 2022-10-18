@@ -13,9 +13,7 @@
 
 ![](https://github.com/Lan-ce-lot/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/Lan-ce-lot/github-stats/blob/master/generated/languages.svg)
-#### Platform&Tools
-##### Operating system
-[![](https://img.shields.io/badge/ubuntu-990000?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://www.archlinux.org/)  [![](https://img.shields.io/badge/Windows%20-33aadd?style=flat-square&logo=Windows&logoColor=ffffff)](https://www.archlinux.org/)
+
 ##### Programming language
 [![](https://img.shields.io/badge/-Go-blue.svg?style=flat-square&logo=go&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/Cpp-red.svg?style=flat&logo=c%2B%2B&logoColor=ffffff)](https://reactjs.org/)
