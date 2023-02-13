@@ -4,7 +4,7 @@
 **Lan-ce-lot/Lan-ce-lot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 😄 I’m a ncuacmer
+- 😄 I’m a NCUACMer
 - 🔭 I’m currently working on HarmonyCloud
 - 🌱 I’m currently learning golang & algorithm
 - 💬 Ask me about whatever I know
