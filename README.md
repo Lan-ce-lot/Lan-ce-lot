@@ -4,15 +4,16 @@
 **Lan-ce-lot/Lan-ce-lot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m a ncuacmer
+- 😄 I’m a ncuacmer
 - 🔭 I’m currently working on HarmonyCloud
 - 🌱 I’m currently learning golang & algorithm
+- 💬 Ask me about whatever I know
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=Lan-ce-lot.readme)
 ![](http://antzuhl.cn:4000/get/@Lan-ce-lot.readme) -->
 
 ![](https://github.com/Lan-ce-lot/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/Lan-ce-lot/github-stats/blob/master/generated/languages.svg)
+<!-- ![](https://github.com/Lan-ce-lot/github-stats/blob/master/generated/languages.svg) -->
 
 ##### Programming language
 [![](https://img.shields.io/badge/-Go-blue.svg?style=flat-square&logo=go&logoColor=ffffff)](https://reactjs.org/)
