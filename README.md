@@ -17,8 +17,8 @@
 
 ##### Programming language
 [![](https://img.shields.io/badge/-Go-blue.svg?style=flat-square&logo=go&logoColor=ffffff)](https://reactjs.org/)
-[![](https://img.shields.io/badge/Cpp-red.svg?style=flat&logo=c%2B%2B&logoColor=ffffff)](https://reactjs.org/)
-[![](https://img.shields.io/badge/-Java-brown.svg?style=flat-square&logo=java&logoColor=66ff99)](https://reactjs.org/)
+<!-- [![](https://img.shields.io/badge/Cpp-red.svg?style=flat&logo=c%2B%2B&logoColor=ffffff)](https://reactjs.org/)
+[![](https://img.shields.io/badge/-Java-brown.svg?style=flat-square&logo=java&logoColor=66ff99)](https://reactjs.org/) -->
 
 
 <!--
