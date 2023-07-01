@@ -13,7 +13,7 @@
 ![](http://antzuhl.cn:4000/get/@Lan-ce-lot.readme) -->
 
 ![](https://github.com/Lan-ce-lot/github-stats/blob/master/generated/overview.svg)
-<!-- ![](https://github.com/Lan-ce-lot/github-stats/blob/master/generated/languages.svg) -->
+![](https://github.com/Lan-ce-lot/github-stats/blob/master/generated/languages.svg)
 
 ##### Programming language
 [![](https://img.shields.io/badge/-Go-blue.svg?style=flat-square&logo=go&logoColor=ffffff)](https://reactjs.org/)
