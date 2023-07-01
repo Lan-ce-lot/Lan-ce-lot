@@ -14,12 +14,15 @@
 
 ![](https://github.com/Lan-ce-lot/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/Lan-ce-lot/github-stats/blob/master/generated/languages.svg)
+##### OS
+[![](https://img.shields.io/badge/ubuntu-990000?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://www.archlinux.org/)  
+[![](https://img.shields.io/badge/macos%20-33aadd?style=flat-square&logo=apple&logoColor=ffffff)](https://www.archlinux.org/)
+
+
 
 ##### Programming language
 [![](https://img.shields.io/badge/-Go-blue.svg?style=flat-square&logo=go&logoColor=ffffff)](https://reactjs.org/)
-<!-- [![](https://img.shields.io/badge/Cpp-red.svg?style=flat&logo=c%2B%2B&logoColor=ffffff)](https://reactjs.org/)
-[![](https://img.shields.io/badge/-Java-brown.svg?style=flat-square&logo=java&logoColor=66ff99)](https://reactjs.org/) -->
-
+[![](https://img.shields.io/badge/-Python-green.svg?style=flat-square&logo=python&logoColor=ffffff)](https://reactjs.org/)
 
 <!--
 **Lan-ce-lot/Lan-ce-lot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
