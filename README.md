@@ -1,7 +1,7 @@
 ### Hi there 👋! I'm Lance!
 
 <br clear="both">
-<img align="right" height="150" src="./img//output.gif"  />
+<img align="right" height="150" src="./img//output-1.0.gif"  />
 
 
 - 🌱 I’m currently studying in the Zhejiang University
