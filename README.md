@@ -7,7 +7,7 @@
 - 🌱 I’m currently studying in the Zhejiang University.
 - 🔭 I’m currently learning Kubernetes and eBPF.
 - 📚 I’m currently learning algorithm.
-- ✉️ You can shoot me an email at [lancel.huang@foxmail.com](mailto://lancel.huang.cs@gmail.com)! I'll try to respond as soon as I can.
+- ✉️ You can shoot me an email at [lancel.huang@foxmail.com](mailto://lancel.huang@foxmail.com)! I'll try to respond as soon as I can.
 - 💬 Ask me about whatever I know.
 - ...
 
